@@ -1,4 +1,4 @@
 android
 =======
 
-Sample Android Application
+Android Sample Application
